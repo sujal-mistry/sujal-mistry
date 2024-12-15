@@ -1,5 +1,5 @@
 # 💫 About Me:
-📫 How to reach me sujal.mistry104@gmail.com<br>🔭 I’m currently working as Software Developer<br>🌱 I’m currently learning data engineering on Microsoft Azure, specifically focusing on the DP-203 certification.<br>💬 Ask me about data engineering, cloud technologies, or the latest in games and anime<br>⚡ Fun fact: I can write SQL queries faster than I can decide what to watch on Netflix. But when I finally do, it's usually an anime marathon or a deep dive into gaming!<br>
+📫 How to reach me sujal.mistry104@gmail.com<br>🔭 I’m currently working as Software Engineer<br>🌱 I’m currently learning data engineering on Microsoft Azure, specifically focusing on the DP-203 certification.<br>💬 Ask me about data engineering, cloud technologies, or the latest in games and anime<br>⚡ Fun fact: I can write SQL queries faster than I can decide what to watch on Netflix. But when I finally do, it's usually an anime marathon or a deep dive into gaming!<br>
 
 
 ## 🌐 Socials:
